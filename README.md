@@ -5,9 +5,9 @@ The left # letters in this puzzle according to filled rows/columns are printed.
 
 **Note:** It is assumed that there are no black blocks.
 
-### Usage
-* ´npm install´
-* ´npm start´
+### Setup & Usage
+1. `npm install`
+2. `npm start`
 
 ### Result
 ![Result](1.png)

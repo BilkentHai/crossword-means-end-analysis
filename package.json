@@ -1,0 +1,45 @@
+{
+  "name": "crossword-means-end-analysis",
+  "version": "1.0.0",
+  "description": "Analyzes 5*5  New York Times crossword puzzle via means end analysis technique.\r The left # letters in this puzzle according to filled rows/columns are printed.",
+  "main": "Analyzes 5*5  New York Times crossword puzzle via means end analysis technique.",
+  "dependencies": {
+    "better-console": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+      "start": "node grid"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Analyzes 5*5  New York Times crossword puzzle via means end analysis technique."
+  },
+  "keywords": [
+    "The",
+    "left",
+    "#",
+    "letters",
+    "in",
+    "this",
+    "puzzle",
+    "according",
+    "to",
+    "filled",
+    "rows/columns",
+    "are",
+    "printed.Analyzes",
+    "5*5",
+    "New",
+    "York",
+    "Times",
+    "crossword",
+    "puzzle",
+    "via",
+    "means",
+    "end",
+    "analysis",
+    "technique."
+  ],
+  "author": "Selim Fırat Yılmaz",
+  "license": "MIT"
+}
